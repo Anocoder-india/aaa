@@ -1,6 +1,6 @@
-open("https://youtu.be/9Zo-Mpg61Wk")
+open("https://youtu.be/_kLg3bCOpUY")
 function pa(){
     close()
-    open("https://youtu.be/9Zo-Mpg61Wk")
+    open("https://youtu.be/_kLg3bCOpUY")
 }
-setInterval(pa,1260000)
+setInterval(pa,180000)
